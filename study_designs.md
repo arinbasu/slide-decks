@@ -1,4 +1,4 @@
-# Study designs in Evidence based health
+## Study designs in Evidence based health
 
 --- 
 ## Challenge ...
