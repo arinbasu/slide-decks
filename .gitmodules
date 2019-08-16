@@ -1,0 +1,3 @@
+[submodule "slide-decks"]
+	path = slide-decks
+	url = https://github.com/arinbasu/slide-decks.git
