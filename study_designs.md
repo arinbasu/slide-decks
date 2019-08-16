@@ -1,6 +1,6 @@
 ## Study designs in Evidence based health
 
---- 
+---
 ## Challenge ...
 You are a health officer working in a small town ("T") with 1000 residents. You have received reports from the doctors in the area that there is a gastroenteritis like outbreak, characterised by nausea, vomiting, and abdominal pain in the town. Your department head wants you to investigate this. What will be your first step and what will you do?
 
